@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! Eu sou o Lucas Moura, desenvolvedor Front-end com foco em me tornar Full Stack
 
-<!--
-**lucsa27/lucsa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https//:https://github.com/lucsa27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsa27&hide=stars,prs&show_icons=true&theme=prussian">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucsa27&layout=compact&card_width=420&theme=prussian">
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <img  height= "120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=school-enrollment-form-project&theme=prussian"/>
+  <img  height= "120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=First-test&theme=prussian" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+      
+ 
