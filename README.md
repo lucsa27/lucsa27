@@ -13,10 +13,10 @@
 ### Main Projects
 <p>
   <a href="https://github.com/lucsa27/school-enrollment-form-project" target="_blank">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=school-enrollment-form-project&theme=prussian" alt="School Enrollment Form Project" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=school-enrollment-form-project&theme=prussian" alt="School Enrollment Form Project" />
   </a>
   <a href="https://github.com/lucsa27/First-test" target="_blank">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=First-test&theme=prussian" alt="First Test Project" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=First-test&theme=prussian" alt="First Test Project" />
   </a>
 </p>
 
