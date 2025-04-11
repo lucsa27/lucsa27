@@ -3,10 +3,10 @@
 ### GitHub Stats
 <p>
   <a href="https://github.com/lucsa27" target="_blank">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucsa27&hide=stars,prs&show_icons=true&theme=prussian" alt="GitHub Stats" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lucsa27&hide=stars,prs&show_icons=true&theme=prussian" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/lucsa27" target="_blank">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucsa27&layout=compact&card_width=420&theme=prussian" alt="Top Langs" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucsa27&layout=compact&card_width=420&theme=prussian" alt="Top Langs" />
   </a>
 </p>
 
