@@ -3,20 +3,20 @@
 ### GitHub Stats
 <p>
   <a href="https://github.com/lucsa27" target="_blank">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucsa27&hide=stars,prs&show_icons=true&theme=prussian" alt="GitHub Stats" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucsa27&hide=stars,prs&show_icons=true&theme=prussian" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/lucsa27" target="_blank">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucsa27&layout=compact&card_width=420&theme=prussian" alt="Top Langs" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucsa27&layout=compact&card_width=420&theme=prussian" alt="Top Langs" />
   </a>
 </p>
 
 ### Main Projects
 <p>
   <a href="https://github.com/lucsa27/school-enrollment-form-project" target="_blank">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=school-enrollment-form-project&theme=prussian" alt="School Enrollment Form Project" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=school-enrollment-form-project&theme=prussian" alt="School Enrollment Form Project" />
   </a>
   <a href="https://github.com/lucsa27/First-test" target="_blank">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=First-test&theme=prussian" alt="First Test Project" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=lucsa27&repo=First-test&theme=prussian" alt="First Test Project" />
   </a>
 </p>
 
@@ -34,11 +34,13 @@
    <img align="center" alt="lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
+##
+
 ### Contacts
 
 <div> 
-  <a href = "mailto:lc27.moura2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-moura-de-lima-b6a776269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=lc27.moura2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-moura-de-lima-b6a776269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
 </div>
 
