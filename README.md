@@ -1,5 +1,12 @@
 ## Olá! Eu sou o Lucas Moura, desenvolvedor Front-end com foco em me tornar Full Stack
 
+🚀 Front-End Developer on a journey to become Full Stack
+
+📚 Currently learning JavaScript, Node.js and React
+
+💼 Open to new opportunities in tech
+
+
 ### GitHub Stats
 <p>
   <a href="https://github.com/lucsa27" target="_blank">
